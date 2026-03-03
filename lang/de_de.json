@@ -1,0 +1,34 @@
+{
+  "item.cyberware.sandevistan": "Sandevistan",
+  "item.cyberware.berserk": "Berserk-Modus",
+  "item.cyberware.legendary_quickhacking": "Legendary Quickhacking",
+  "item.cyberware.mantis_blades": "Mantis-Messer",
+  "item.cyberware.gorilla_arms": "Gorilla-Arme",
+  "item.cyberware.ping": "Ping",
+  "item.cyberware.optical_camo": "Optische Tarnung",
+  "item.cyberware.chrome_body": "Chrome-Körper",
+  
+  "item.cyberware.cyberware_chip": "Cyberware-Chip",
+  "item.cyberware.military_grade_chipset": "Militär-Chipset",
+  "item.cyberware.neural_interface": "Neurale Schnittstelle",
+  "item.cyberware.quickhacking_protocol": "Quickhacking-Protokoll",
+  "item.cyberware.edgerunner_shard": "Edgerunner-Splitter",
+  "item.cyberware.quantum_processor": "Quanten-Prozessor",
+  "item.cyberware.lucy_soul_shard": "Lucys Seelen-Splitter",
+  "item.cyberware.david_soul_shard": "Davids Seelen-Splitter",
+  
+  "block.cyberware.ripperdoc_station": "Ripperdoc-Station",
+  "block.cyberware.cybernetic_assembler": "Kybernetischer Zusammenbauer",
+  "block.cyberware.quickhacking_terminal": "Quickhacking-Terminal",
+  "block.cyberware.neural_calibration_pod": "Neurale Kalibrations-Kapsel",
+  "block.cyberware.cyberware_storage": "Cyberware-Lagerung",
+  "block.cyberware.neon_blue_block": "Neon-Blau Block",
+  "block.cyberware.neon_pink_block": "Neon-Pink Block",
+  "block.cyberware.neon_purple_block": "Neon-Lila Block",
+  
+  "entity.cyberware.ripperdoc": "Ripperdoc",
+  "entity.cyberware.cyborg_warrior": "Cyborg-Krieger",
+  "entity.cyberware.netrunner": "Netrunner",
+  "entity.cyberware.lucy_cyborg": "Lucy",
+  "entity.cyberware.david_cyborg": "David"
+}
