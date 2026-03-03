@@ -67,7 +67,19 @@ jar {
     }
 }
 
-publishingConfiguration {
-    username = System.getenv('MAVEN_USER') ?: 'User'
-    password = System.getenv('MAVEN_PASS') ?: 'Pass'
+publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            from components.java
+        }
+    }
+    repositories {
+        maven {
+            url = uri("https://your.maven.repo")
+            credentials {
+                username = System.getenv('MAVEN_USER')
+                password = System.getenv('MAVEN_PASS')
+            }
+        }
+    }
 }
